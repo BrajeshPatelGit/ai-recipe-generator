@@ -1,3 +1,4 @@
+# Added this for redeployment 1 June, 2026, 15:41.
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
